@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RAK</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="api_base_url">http://rak_facturation.com/api/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">All Client</string>
+
+    <!-- New strings for client operations -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_client">Add Client</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="welcome_image_desc">Welcome Image</string>
+    <string name="clients">Clients</string>
+    <string name="facturation">Facturation</string>
+    <string name="paiements">Paiements</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_image">Welcome Image</string>
+
+
+</resources>

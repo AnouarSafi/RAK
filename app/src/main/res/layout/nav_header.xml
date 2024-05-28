@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/lavender"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="40dp"
+    android:paddingBottom="16dp">
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/rak_logo"
+        android:contentDescription="Le Logo de la RAK"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Régie Autonome de Kénitra"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
